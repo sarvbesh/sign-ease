@@ -1,2 +1,2 @@
-# sign-ease
-An online signature application.
+# Sign-Ease
+An online signature web application!📝
